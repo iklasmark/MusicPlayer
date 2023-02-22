@@ -59,7 +59,7 @@ nav ul li{
 .bottom{
     position: sticky;
     background-color:#fff;
-    color: white;
+    color: black;
     height: 90px;
     bottom: 0;
     display: flex;
