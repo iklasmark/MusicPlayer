@@ -58,7 +58,7 @@ nav ul li{
 
 .bottom{
     position: sticky;
-    background-color:rgb(157 201 117);
+    background-color:#fff;
     color: white;
     height: 90px;
     bottom: 0;
